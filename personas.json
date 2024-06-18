@@ -1,0 +1,40 @@
+{
+  "personas": [
+    {
+      "id": 789,
+      "nombre": "juan",
+      "edad": 45,
+      "domicilio": {
+        "calle": "asgagasf",
+        "altura": 954
+      }
+    },
+    {
+      "id": 123,
+      "nombre": "fede",
+      "edad": 28,
+      "domicilio": {
+        "calle": "asdasd",
+        "altura": 546
+      }
+    },
+    {
+      "id": 915,
+      "nombre": "maria",
+      "edad": 45,
+      "domicilio": {
+        "calle": "askjgnaskg",
+        "altura": 654
+      }
+    },
+    {
+      "id": 134,
+      "nombre": "pedro",
+      "edad": 16,
+      "domicilio": {
+        "calle": "asfagas",
+        "altura": 34
+      }
+    }
+  ]
+}
